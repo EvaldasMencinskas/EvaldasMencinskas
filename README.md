@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evaldasmencinskas&label=Profile%20views&color=0e75b6&style=flat" alt="evaldasmencinskas" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js and some other web technologies**
 
 - 👨‍💻 All of my projects are available at [https://evaldasmencinskas.github.io/Portfolio-website/](https://evaldasmencinskas.github.io/Portfolio-website/)
