@@ -74,11 +74,11 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evaldasmencinskas&show_icons=true&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evaldasmencinskas&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evaldasmencinskas&show_icons=true&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evaldasmencinskas&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evaldasmencinskas&" alt="evaldasmencinskas" /></p>
