@@ -78,7 +78,7 @@
   </a>
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evaldasmencinskas&show_icons=true&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evaldasmencinskas&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=evaldasmencinskas&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=evaldasmencinskas&layout=compact&theme=dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evaldasmencinskas&" alt="evaldasmencinskas" /></p>
