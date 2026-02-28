@@ -13,7 +13,7 @@
 **Next.js and other modern web technologies**
 
 ### 👨‍💻 Check out my work  
-🌐 Portfolio: **https://evaldasmencinskas.github.io/Portfolio-website/](https://www.mencinskas.dev**
+🌐 Portfolio: **https://www.mencinskas.dev/**
 
 ### 💬 Ask me about  
 **Web development, UI/UX, or 3D design**
